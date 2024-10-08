@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Criação RAID-5
 # Instalação mdadm
 # sudo apt-get install mdadm
